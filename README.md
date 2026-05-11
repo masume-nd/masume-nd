@@ -48,17 +48,27 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
----
+## 📈 GitHub Activity
 
-## 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=masume-nd&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=masume-nd&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=masume-nd&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masume-nd&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masume-nd&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masume-nd&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=masume-nd&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ## 🌐 Connect with Me
 
