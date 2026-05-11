@@ -48,19 +48,19 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-## 📈 GitHub Activity
+## ✨ GitHub Insights
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=masume-nd&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masume-nd&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masume-nd&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masume-nd&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masume-nd&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=masume-nd&theme=react-dark&hide_border=true&bg_color=00000000&line=bb86fc&point=f8d866&area=true" />
 
 </div>
 
