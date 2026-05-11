@@ -1,32 +1,66 @@
-## Hi there 👋
+# Hi there 👋 I'm Masoume
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=DB98F7&width=500&lines=I'm+Masoume;Passionate+Front-End+Developer;In+Love+with+Technology+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=DB98F7&width=700&lines=Frontend-focused+Full-Stack+Developer;React+%7C+Next.js+%7C+React+Native;Building+Clean+%26+Scalable+Applications;Passionate+About+AI+Powered+Solutions)](https://git.io/typing-svg)
 
+---
 
-<!--
-**masume-nd/masume-nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💻 Frontend-focused Full-Stack Developer with 3+ years of experience
+- ⚛️ Specialized in React, Next.js & React Native
+- 🧠 Interested in AI-powered applications & speech processing
+- ⚡ Focused on performance optimization, clean architecture & scalable UI systems
+- 🛠️ I enjoy building fast, maintainable and polished products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🧰 Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-Some tools that I worked with:
+### State Management & Data
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/HTML-8?style=flat&logo=html5&logoColor=white&logoSize=24&color=red)
-![Static Badge](https://img.shields.io/badge/css-8?style=flat&logo=css3&logoSize=24&color=blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-8?style=flat&logo=javascript&logoColor=%23F7DF1E&logoSize=24&color=yellow)
-![Static Badge](https://img.shields.io/badge/React_js-8?style=flat&logo=react&logoColor=%2361DAFB&logoSize=24&color=gray)
-![Static Badge](https://img.shields.io/badge/Vite-8?style=flat&logo=vite&logoColor=%23646CFF&logoSize=24&color=rgb(175%2C63%2C245))
-![Static Badge](https://img.shields.io/badge/Next_js-8?style=flat&logo=nextdotjs&logoColor=%23000000&logoSize=24&color=white)
-![Static Badge](https://img.shields.io/badge/TypeScript-8?style=flat&logo=typescript&logoColor=%233178C6&logoSize=24&color=blue)
-![Static Badge](https://img.shields.io/badge/Sass-8?style=flat&logo=sass&logoColor=%23CC6699&logoSize=24&color=pink)
+### Forms & Validation
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+![Yup](https://img.shields.io/badge/Yup-111827?style=for-the-badge)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+### Backend & AI
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=masume-nd&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=masume-nd&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masume-nd&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masume.ndri@gmail.com)
